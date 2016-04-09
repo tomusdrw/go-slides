@@ -1,5 +1,5 @@
 // nazwa paczki
-package main
+package main1
 
 // list importowanych paczek
 import (
